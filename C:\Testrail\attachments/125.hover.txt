@@ -1,0 +1,42 @@
+125801
+
+Hover Field-Plugin Integration-Mouse Hover Defect ID or Refernce ID -Configured Hover Fields displayed
+Hover Field-Plugin Integration-Mouse Hover Defect ID or Refernce ID-Entity ID and Title should display 
+Hover Field-Plugin Integration-Clicking on Defect ID or Refernce ID-Redirected to External tool 
+Hover Field-Plugin Integration-Configure Custom Fields-Confgured custom fields displayed 
+Hover Field-Plugin Integration-Configure text and string fields-Size property should be "full" by default
+Hover Field-Plugin Integration-Configure non-text, non-string, and non-‘full’-Size property should be "compact"  by default 
+Hover Field-Plugin Integration-Configure Custom Fields-Do not put lebel or type-Save Confiuration-Error message should be displayed identifying the missing data
+
+Hover Field-Plugin Integration-Configure Custom Fields-Do not put any field other than lebel or type-Save Confiuration-Configuration should be saved without any error.  
+
+Hover Field-Plugin Integration-Configure Custom Fields-[hover.fields] section not present-Default set of fields should be displayed. 
+Hover Field-Plugin Integration-Configure Custom Fields-Configured custom fields displayed on hover
+Hover Field-Plugin Integration-[push.field<field_name>] Cofigured hover fields displayed
+Hover Field-Plugin Integration-Hover on Defect ID or Refernce ID - Date field should be displayed as per users locale settting. 
+Hover Field-Plugin Integration-Hover on Defect ID or Refernce ID - String or Text fields should be in the bottom of the dialogue. 
+Hover Field-Plugin Integration-Hover on Defect ID or Refernce ID - Title should be always on Top 
+Hover Field-Plugin Integration-Hover on Defect ID or Refernce ID - Non String and Non Text fields should be on top 
+Hover Field-Plugin Integration-Hover on Defect ID or Refernce ID - String or Text fields should have configured lebels 
+Hover Field-Plugin Integration-Hover on Defect ID or Refernce ID - Project level settings should take priority over global level settings
+Hover Field-Plugin Integration-Defect and Reference settings are different- Hover on Defect ID or Reference ID - Different data should be displayed for Reference and Defect 
+Hover Field-Plugin Integration-Defect and Reference settings are different- Hover on Defect ID or Reference ID - Fields with Full size should be displayed at the bottom of the screen. 
+
+Hover Field-Plugin Integration-Hover on Defect or Reference ID- non-text, non-string, and non-‘full’ fields  should be togather at top section below Title and Entity ID.  
+Hover Field-Plugin Integration-Hover on Defect or Reference ID- Entity ID and Title should be on the top of the screen . 
+Hover Field-Plugin Integration-Hover on Defect or Reference ID- Customized fields should appear in the same order in which they configured . 
+Hover Field-Plugin Integration-Upgraded Testrail Version Global Cofiguration-Hover on Defect or Reference ID- Same data should appear prior to upgrade . 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
