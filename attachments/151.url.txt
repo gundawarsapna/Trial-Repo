@@ -1,0 +1,12 @@
+POST tickets
+curl -H "X-Api-Key: 3846fb3cc2f1088baab0" -H "X-Api-Secret: b923dfc7458127a4aecd34c6b10fed5fdb70588c" -H "Content-type: application/json" -d '{"ticket":{"summary":"FixMe"}}' https://api.assembla.com/v1/spaces/testrail/tickets.json
+
+
+-----------------------------------------------------------------------------------------------
+
+POST document
+
+curl -i "X-Api-Key: 3846fb3cc2f1088baab0" -H "X-Api-Secret: b923dfc7458127a4aecd34c6b10fed5fdb70588c"  -H "Content-type: application/json" -F "document[file]=@/home/swarada/Downloads/client.ovpn" https://bigfiles.assembla.com/v1/spaces/testrail/documents.json
+
+--------------------------------------------------------------------------------------
+curl -H "X-Api-Key: 3846fb3cc2f1088baab0" -H "X-Api-Secret: b923dfc7458127a4aecd34c6b10fed5fdb70588c" -H "Content-type: application/json" -F "document[file]=@/home/swarada/Downloads/client.ovpn" https://bigfiles.assembla.com/v1/spaces/testrail/documents.json
